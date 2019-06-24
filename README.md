@@ -19,3 +19,5 @@
 
 [Ejemplos para analizar redes a partir de las simulaciones, con Python](codigo/redes)
 
+### Inspiración
+
