@@ -4,6 +4,9 @@
 
 ## Recursos para el Hackathon de Cuántica (CCCB, 29-30 de Junio)
 
+### Presentaciones
+[Presentación general del hackathon](presentaciones/general.pdf)
+
 ### Datasets
 [Enlaces a los datasets del colisionador de Hadrones del CERN](datasets/cern)
 
