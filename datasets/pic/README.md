@@ -29,6 +29,12 @@ Los campos del fichero son los siguientes (cada línea del fichero es una galaxi
     - 'galaxy_id': Ignorar este campo
     - 'z': Redshift exacto de la galaxia
     - 'lsst_i': Flujo lumínico de la galaxia (en unidades CGS)
+    
+<p align="center">
+  <img src="cosmohub.png">
+</p>
+    
+También contamos con la utilidad ['Cosmohub'](https://cosmohub.pic.es/home) del PIC, desde donde se pueden visualizar de manera interactiva los datos cosmológicos de 500 millones de galaxias. Puedes usar los resultados para generar visualizaciones o sonificarlos
 
 
 

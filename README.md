@@ -24,3 +24,6 @@
 
 ### Inspiración
 
+[Visualización 3D de cada uno de los eventos en el experimento LHCb del CERN](http://clangenb.web.cern.ch/clangenb/)
+[]
+
