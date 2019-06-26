@@ -55,6 +55,9 @@ Más abajo, en estas líneas se instancian los controladores para Oculus Go o Qu
        <a-entity laser-controls="hand: left"></a-entity>
 ```
 
+(Recuerda que a la hora de usar el ejemplo en un headset, debes comentar las líneas del cursor, para que no 'se pise' con los controladores)
+
+
 Por último, se ha escrito un mini-componente para incluir interacción en las 3 esferas. Lo verás al principio en el tag 'SCRIPT' (también lo puedes llevar a un fuente separado de javascript). [Aquí](https://aframe.io/docs/0.9.0/introduction/writing-a-component.html) puedes encontrar más info sobre los componentes de AFrame. En este caso, cuando el cursor o el 'rayo' que sale de los controladores se encuentra con alguna de las esferas, se le modifica el radio. Usando código parecido puedes programar todo tipo de interacciones con la escena y caminar hacia una experiencia más rica.
 
 
