@@ -20,7 +20,7 @@
 ### Código
 [Ejemplos para visualizar texturas en WebVR, con AFrame](codigo/texturas)
 
-[Ejemplos para visualizar nubes de puntos en WebVR, con AFrame](codigo/cloudpoint)
+[Ejemplos para visualizar nubes de puntos en WebVR, con AFrame](codigo/pointcloud)
 
 [Ejemplos para analizar redes a partir de las simulaciones, con Python](codigo/redes)
 
