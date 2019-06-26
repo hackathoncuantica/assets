@@ -29,5 +29,39 @@ El resto del código usa la primitiva 'a-sphere', que puedes consultar en la doc
 El código es muy parecido, con el único cambio de que hay una sola esfera, de radio 100 metros y en la que la textura 'se pega' a su interior ('side:back')
 
 
+## Cómo añadir interacción
+
+<p align="center">
+  <img src="interaccion.jpg">
+</p>
+
+[Aquí](interaccion) tienes un 'index.html' igual que el anterior, pero con interaccion añadida. 
+
+Verás que en pantalla sale un cursor amarillo: Esa interacción es para Desktop y desarrollar.
+
+```     <a-camera>
+          <a-entity cursor
+                    position="0 0 -1"
+                    geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                    material="color: yellow; shader: flat">
+          </a-entity>
+      </a-camera>
+```      
+
+Más abajo, en estas líneas se instancian los controladores para Oculus Go o Quest:
+
+```
+       <a-entity laser-controls="hand: right"></a-entity>
+       <a-entity laser-controls="hand: left"></a-entity>
+```
+
+Por último, se ha escrito un mini-componente para incluir interacción en las 3 esferas. Lo verás al principio en el tag 'SCRIPT' (también lo puedes llevar a un fuente separado de javascript). [Aquí](https://aframe.io/docs/0.9.0/introduction/writing-a-component.html) puedes encontrar más info sobre los componentes de AFrame. En este caso, cuando el cursor o el 'rayo' que sale de los controladores se encuentra con alguna de las esferas, se le modifica el radio. Usando código parecido puedes programar todo tipo de interacciones con la escena y caminar hacia una experiencia más rica.
+
+
+      
+      
+        
+
+
 
 
