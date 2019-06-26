@@ -7,6 +7,8 @@
 ### Presentaciones
 [Presentación general del hackathon](presentaciones/general.pdf)
 
+[Presentación sobre cosmología de parte del PIC (Jorge Carretero y Martin Eriksen)](presentaciones/CCCB_introduction.pdf)
+
 ### Datasets
 [Enlaces a los datasets del colisionador de Hadrones del CERN](datasets/cern)
 
