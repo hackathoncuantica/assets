@@ -10,7 +10,7 @@ Con las texturas generadas por el PIC [aquí]() puedes 'envolver' esferas y ver 
 ## Cómo ver texturas desde fuera
 
 <p align="center">
-  <img src="CERN.png">
+  <img src="texturas_fuera.jpg">
 </p>
 
 [Aquí](texturas_fuera) tienes un 'index.html' de ejemplo para generar esferas con texturas, y verlas desde las Oculus Go o Quest (este último en 'room-scale', es decir, puedes 'pasearte' por el entorno que hayas creado)
