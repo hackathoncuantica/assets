@@ -10,7 +10,7 @@
 ### Datasets
 [Enlaces a los datasets del colisionador de Hadrones del CERN](datasets/cern)
 
-[Enlaces a los datasets de simulaciones del Universo del PIC](datasets/pic)
+[Enlaces a los datasets de simulaciones del Universo del PIC y a CosmoHub](datasets/pic)
 
 [Resultados de la encuesta de conocimientos de física cuántica en CCCB](datasets/cccb)
 
@@ -25,5 +25,18 @@
 ### Inspiración
 
 [Visualización 3D de cada uno de los eventos en el experimento LHCb del CERN](http://clangenb.web.cern.ch/clangenb/)
-[]
+
+[Sonificación de una imagen de espacio profundo del Hubble (NASA)](https://www.youtube.com/watch?v=H-Ci_YwfH04)
+
+[Vídeo de evolución de halos de materia oscura desde los principios del universo hasta hoy (I)](https://www.youtube.com/watch?v=2qeT4DkEX-w)
+
+[Vídeo de evolución de halos de materia oscura desde los principios del universo hasta hoy (I)](https://www.youtube.com/watch?v=6NIr2zYtHR)
+
+[Cuenta de Twitter de 'System Sounds', con sonificaciones de datos e imágenes astronómicas](https://twitter.com/system_sounds)
+
+### Algunas ideas al margen de los datasets
+
+- Universo Cuántica: Artículo/Visualización sobre todas las películas, canciones, etc.. que mencionan la física cuántica
+- Hitchhiker's Guide to Quantum Physics: Una pieza sobre los fundamentos de la física cuántica, con visualizaciones o ilustraciones
+- Variantes sobre el vídeo ['Powers of 10'](https://www.youtube.com/watch?v=0fKBhvDjuy0), por ejemplo, jugando con el tiempo en lugar de con el espacio (obviamente una versión mucho más sencilla, en formato web o interactivo)
 
