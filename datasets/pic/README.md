@@ -30,7 +30,7 @@ Los campos del fichero son los siguientes (cada línea del fichero es una galaxi
     - 'z': Redshift exacto de la galaxia
     - 'lsst_i': Flujo lumínico de la galaxia (en unidades CGS)
     
-<p align="center">
+<p align="center" style="margin-top: 100px">
   <img src="cosmohub.png">
 </p>
     
