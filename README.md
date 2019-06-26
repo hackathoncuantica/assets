@@ -30,7 +30,7 @@
 
 [Vídeo de evolución de halos de materia oscura desde los principios del universo hasta hoy (I)](https://www.youtube.com/watch?v=2qeT4DkEX-w)
 
-[Vídeo de evolución de halos de materia oscura desde los principios del universo hasta hoy (I)](https://www.youtube.com/watch?v=6NIr2zYtHR)
+[Vídeo de evolución de halos de materia oscura desde los principios del universo hasta hoy (I)](https://www.youtube.com/watch?v=6NIr2zYtHRQ)
 
 [Cuenta de Twitter de 'System Sounds', con sonificaciones de datos e imágenes astronómicas](https://twitter.com/system_sounds)
 
