@@ -7,6 +7,8 @@
 ### Presentaciones
 [Presentación general del hackathon](presentaciones/general.pdf)
 
+[Presentación sobre cosmología de parte del PIC (Jorge Carretero y Martin Eriksen)](presentaciones/CCCB_introduction.pdf)
+
 ### Datasets
 [Enlaces a los datasets del colisionador de Hadrones del CERN](datasets/cern)
 
@@ -18,7 +20,7 @@
 ### Código
 [Ejemplos para visualizar texturas en WebVR, con AFrame](codigo/texturas)
 
-[Ejemplos para visualizar nubes de puntos en WebVR, con AFrame](codigo/cloudpoint)
+[Ejemplos para visualizar nubes de puntos en WebVR, con AFrame](codigo/pointcloud)
 
 [Ejemplos para analizar redes a partir de las simulaciones, con Python](codigo/redes)
 
