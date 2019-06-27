@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="point_cloud.jpg">
+</p>
+
+
 ## Visualizador de nubes de puntos 
 
 Aquí tienes el código para visualizar en 3D un fichero csv entero de galaxias. El PIC nos ha cedido el fichero '5116.csv' justo para esto, es un octante entero (4 millones de galaxias). Verás que en el index.html existe esta línea:
