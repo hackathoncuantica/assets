@@ -16,7 +16,7 @@ SAMPLING_RATE = 10
 
 AVERAGE_DEGREE = 10
 
-REDSHIFT = "0.6"
+REDSHIFT = "1.2"
 
 FILE_IN = "../data/flagship_z" + REDSHIFT[0] + "p" + REDSHIFT[2] + "_slice.csv"
 
