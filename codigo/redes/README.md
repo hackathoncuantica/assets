@@ -7,26 +7,26 @@ El código, en Python, usa [networkx](https://networkx.github.io/) para generar 
 Una vez que se genere el fichero .gexf, puedes importarlo en Gephi. Lo recomendable es usar el layout [Force Atlas 2](https://github.com/gephi/gephi/wiki/Force-Atlas-2), con unos parámetros semejantes a la siguiente captura de pantalla. También puedes colorear los nodos según la propiedad 'community', que se genera con el fuente en python.
 
 <p align="center">
-  <img src="layout_settings.png">
+  <img src="img/layout_settings.png">
 </p>
 
 ### Diagrama a redshift=0.2
 
 <p align="center">
-  <img src="redshift_0p2.png">
+  <img src="img/redshift_0p2.png">
 </p>
 
 
 ### Diagrama a redshift=0.6
 
 <p align="center">
-  <img src="redshift_0p6.png">
+  <img src="img/redshift_0p6.png">
 </p>
 
 
 ### Diagrama a redshift=1.2
 
 <p align="center">
-  <img src="redshift_1p2.png">
+  <img src="img/redshift_1p2.png">
 </p>
 
