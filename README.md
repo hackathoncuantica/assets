@@ -24,7 +24,15 @@
 
 [Ejemplos para analizar redes a partir de las simulaciones, con Python](codigo/redes)
 
+### Tools
+[Gephi (visualización de redes)](https://gephi.org/)
+[TwoTone (Data sonification tool)](https://twotone.io/)
+
 ### Inspiración
+
+[Sonificando la desigualdad de ingresos en NY] (https://www.mic.com/articles/177877/data-sonification-lets-you-literally-hear-income-inequality)
+
+[AI para descifrar el lenguaje de las ballenas (experimento interactivo de Google)](https://experiments.withgoogle.com/patternradio)
 
 [Visualización 3D de cada uno de los eventos en el experimento LHCb del CERN](http://clangenb.web.cern.ch/clangenb/)
 
