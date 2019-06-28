@@ -12,6 +12,12 @@
 
                 var el = this.el;
 
+                el.addEventListener("click", function(){
+                    console.log("CLICK!");
+
+                });
+
+
                 el.addEventListener("mouseenter", function(){
                     el.setAttribute("radius", 0.75);
                 });
@@ -27,28 +33,28 @@
 
      <!-- PARA INTERACCION EN DESKTOP !-->
 
-     <!--<a-camera>-->
-          <!--<a-entity cursor-->
-                    <!--position="0 0 -1"-->
-                    <!--geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"-->
-                    <!--material="color: yellow; shader: flat">-->
-          <!--</a-entity>-->
-      <!--</a-camera>-->
+     <a-camera>
+          <a-entity cursor
+                    position="0 0 -1"
+                    geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                    material="color: yellow; shader: flat">
+          </a-entity>
+      </a-camera>
 
      <!-- PARA INTERACCION EN DESKTOP !-->
 
      <!-- PARA INTERACCION CON OCULUS GO O QUEST !-->
 
 
-        <a-entity laser-controls="hand: right"></a-entity>
-        <a-entity laser-controls="hand: left"></a-entity>
+        <!--<a-entity laser-controls="hand: right"></a-entity>-->
+        <!--<a-entity laser-controls="hand: left"></a-entity>-->
 
      <!-- PARA INTERACCION CON OCULUS GO O QUEST !-->
 
 
-       <a-entity position="0 -10 0 " environment="preset: checkerboard; skyColor: #001; groundColor: black; horizonColor: #331c27; groundColor2: #491c27; groundTexture: squares; grid:2x2; dressing: torii; dressingColor: #6d3d55; groundYScale:10"></a-entity>
+        <a-entity position="0 -10 0 " environment="preset: checkerboard; skyColor: #001; groundColor: black; horizonColor: #331c27; groundColor2: #491c27; groundTexture: squares; grid:2x2; dressing: torii; dressingColor: #6d3d55; groundYScale:10"></a-entity>
         <a-sphere interaccion segments-height="100" segments-width="100" position="-1.5 1.6 -2" radius="0.5" material="src: textures/textura_3_equi.jpg; shader:flat; side:front"></a-sphere>
-        <a-sphere interaccion segments-height="100" segments-width="100" position="0 1.6 -2" radius="0.5" material="src: textures/histograma_1.png; shader:flat; transparent: true; side:double"></a-sphere>
+        <a-sphere interaccion segments-height="100" segments-width="100" position="0 1.6 -2" radius="0.5" material="src: textures/5288_gaia_equiv2.jpg; shader:flat; transparent: true; side:double"></a-sphere>
         <a-sphere interaccion segments-height="100" segments-width="100" position="1.5 1.6 -2" radius="0.5" material="src: textures/histograma_2.png; shader:flat; transparent: true; side:double"></a-sphere>
     </a-scene>
   </body>
