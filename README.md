@@ -31,6 +31,8 @@
 
 [TwoTone (Data sonification tool)](https://twotone.io/)
 
+[Datashader (Data visualization para Python)] (http://datashader.org/)
+
 ### Inspiración
 
 [Sonificando la desigualdad de ingresos en NY](https://www.mic.com/articles/177877/data-sonification-lets-you-literally-hear-income-inequality)
