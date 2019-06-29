@@ -1,7 +1,7 @@
 ## Sonificando imágenes de simulaciones del Universo
 
 <p align="center">
-  <img src="img/sonificacion.png">
+  <img src="sonificacion.png">
 </p>
 
 Partiendo de la secuencia de imágenes a diferentes redshift, puedes escuchar como 'suenan' con el vengador, abriendo el 'index.html' incluído y su código javascript. Jugando un poco con los parámetros puedes incluir otra escala, otra duración y otros límites.
