@@ -37,7 +37,7 @@ El código es muy parecido, con el único cambio de que hay una sola esfera, de 
 
 [Aquí](interaccion) tienes un 'index.html' igual que el anterior, pero con interaccion añadida. 
 
-Verás que en pantalla sale un cursor amarillo: Esa interacción es para Desktop y desarrollar.
+Verás que en pantalla sale un cursor amarillo: Esa interacción es para Desktop y desarrollador.
 
 ```     <a-camera>
           <a-entity cursor
