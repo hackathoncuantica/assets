@@ -31,7 +31,7 @@
 
 [TwoTone (Data sonification tool)](https://twotone.io/)
 
-[Datashader (Data visualization para Python)] (http://datashader.org/)
+[Datashader (Data visualization para Python)](http://datashader.org/)
 
 ### Inspiración
 
