@@ -24,6 +24,8 @@
 
 [Ejemplos para analizar redes a partir de las simulaciones, con Python](codigo/redes)
 
+[Ejemplo para sonificar imágenes, con Javascript](codigo/sonificacion)
+
 ### Tools
 [Gephi (visualización de redes)](https://gephi.org/)
 
