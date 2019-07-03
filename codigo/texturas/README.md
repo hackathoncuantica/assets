@@ -4,7 +4,7 @@
 
 Para programar en WebVR necesitas usar una librería javascript compatible, la más usada es [AFrame](https://aframe.io/). Los ejemplos están en la página principal y la documentación [aquí](https://aframe.io/docs/0.9.0/introduction/). Con código HTML relativamente sencillo puedes desarrollar experiencias con fotos y vídeos 360, modelos 3D, sonidos 3D, interacción, etc. Para cosas más avanzadas, puedes programar en javascript. La librería se extiende escribiendo componentes.
 
-Con las texturas generadas por el PIC [aquí]() puedes 'envolver' esferas y ver como se verían en la bóveda celeste, tanto desde dentro como desde fuera. 
+Con las texturas generadas por el PIC  puedes 'envolver' esferas y ver como se verían en la bóveda celeste, tanto desde dentro como desde fuera. 
 
 
 ## Cómo ver texturas desde fuera
@@ -37,7 +37,7 @@ El código es muy parecido, con el único cambio de que hay una sola esfera, de 
 
 [Aquí](interaccion) tienes un 'index.html' igual que el anterior, pero con interaccion añadida. 
 
-Verás que en pantalla sale un cursor amarillo: Esa interacción es para Desktop y desarrollar.
+Verás que en pantalla sale un cursor amarillo: Esa interacción es para Desktop y desarrollador.
 
 ```     <a-camera>
           <a-entity cursor
